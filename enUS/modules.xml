@@ -2,6 +2,7 @@
 ..\FrameXML\UI.xsd">
 
   <Script file="alerts.lua" />
+  <Script file="auction.lua" />
   <Script file="buffers.lua" />
   <Script file="chat.lua" />
   <Script file="errors.lua" />

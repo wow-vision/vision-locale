@@ -20,7 +20,6 @@ L["Skull"] = true
 
 L["Interact"] = true
 
-
 L["Enabled"] = true
 L["Disabled"] = true
 

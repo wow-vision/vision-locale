@@ -79,6 +79,9 @@ L["Quest List"] = true
 L["Range"] = true
 L["Range Changed"] = true
 
+--Reforging
+L["Reforging"] = true
+
 --Spellbook
 L["Spellbook"] = true
 L["Spells"] = true

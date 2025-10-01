@@ -20,6 +20,15 @@ L["Containers"] = true
 
 --Character
 L["Character"] = true
+L["Mounts"] = true
+L["Pet Journal"] = true
+L["Toy Box"] = true
+L["Heirlooms"] = true
+L["Appearances"] = true
+L["Warband Scenes"] = true
+
+--Collections
+L["Collections"] = true
 
 --Gossip Frame
 L["Gossip"] = true

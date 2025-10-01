@@ -24,6 +24,9 @@ L["Character"] = true
 --Gossip Frame
 L["Gossip"] = true
 
+--Item Upgrade
+L["Item Upgrade"] = true
+
 --Loot
 L["Loot"] = true
 L["No loot."] = true

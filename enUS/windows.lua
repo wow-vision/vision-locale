@@ -17,18 +17,19 @@ L["Not Auto Casting"] = true
 L["Bags"] = true
 L["Bag Slot"] = true
 L["Containers"] = true
+L["Bank Bag Slots"] = true
 
 --Character
 L["Character"] = true
+
+--Collections
+L["Collections"] = true
 L["Mounts"] = true
 L["Pet Journal"] = true
 L["Toy Box"] = true
 L["Heirlooms"] = true
 L["Appearances"] = true
 L["Warband Scenes"] = true
-
---Collections
-L["Collections"] = true
 
 --Gossip Frame
 L["Gossip"] = true

@@ -1,25 +1,14 @@
 local L = WowVision:translate("enUS")
 
 L["Auction House"] = true
-L["Categories"] = true
-L["Search"] = true
-L["Minimum"] = true
-L["Maximum"] = true
-L["Results"] = true
 L["Auctions"] = true
 L["Buyout Frame"] = true
 L["Bid Frame"] = true
-L["Gold"] = true
-L["Silver"] = true
-L["Copper"] = true
-L["Price"] = true
+
 L["Unit Price"] = true
-L["Available"] = true
-L["Place Item Here"] = true
 L["Buyout Price"] = true
 L["Bid Price"] = true
 L["Seller"] = true
-L["Quantity"] = true
 L["Sold"] = true
 L["Bids"] = true
 L["Bid Amount"] = true
@@ -30,5 +19,3 @@ L["Short"] = true
 L["Medium"] = true
 L["Long"] = true
 L["Very Long"] = true
-
-L["Socketing"] = true

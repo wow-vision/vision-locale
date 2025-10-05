@@ -71,21 +71,15 @@ L["Role Poll"] = true
 L["Tank"] = true
 L["Healer"] = true
 L["Damage Dealer"] = true
-L["Close"] = true
 
 --Quest
 L["Quest Window"] = true
 L["Quest"] = true
-L["Details"] = true
-L["Progress"] = true
 
 --Quest Log
 L["Quest Log"] = true
 L["Daily"] = true
 L["Weekly"] = true
-L["Complete"] = true
-L["Failed"] = true
-L["Objectives"] = true
 L["Quest List"] = true
 
 --Range
@@ -97,15 +91,9 @@ L["Reforging"] = true
 
 --Spellbook
 L["Spellbook"] = true
-L["Spells"] = true
-L["Spell Flyout"] = true
 
 --Taxi
 L["Taxi"] = true
-
---Trade
-L["Trade"] = true
-L["Enchant"] = true
 
 --TradeSkill
 L["Trade Skill"] = true

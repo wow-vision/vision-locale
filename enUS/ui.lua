@@ -7,6 +7,7 @@ L["Windows"] = true
 --UI names
 L["Button"] = true
 L["Checkbox"] = true
+L["Dropdown"] = true
 L["EditBox"] = "Edit"
 L["Separator"] = true
 L["Text"] = true
@@ -22,31 +23,55 @@ L["List"] = true
 L["Tabs"] = true
 L["Side Tabs"] = true
 L["selected"] = true
-L["disabled"] = true
 L["Checked"] = true
 L["Unchecked"] = true
+L["Disable"] = true
+L["Disabled"] = true
 L["Enable"] = true
 L["Enabled"] = true
 L["Menu"] = true
+L["Available"] = true
+L["Unavailable"] = true
 L["Collapsed"] = true
 L["Expanded"] = true
-
-L["Dropdown"] = true
 L["Expand/Collapse"] = true
+L["Known"] = true
 L["Search"] = true
 L["Clear"] = true
+L["Results"] = true
 L["Categories"] = true
 L["Previous Page"] = true
 L["Next Page"] = true
 L["Empty"] = true
 L["Items"] = true
-
 L["Options"] = true
 L["Scroll Up"] = true
 L["Scroll Down"] = true
 L["Minimum"] = true
 L["Maximum"] = true
 L["in stock"] = true
+L["Gold"] = true
+L["Silver"] = true
+L["Copper"] = true
+L["Price"] = true
+L["Quantity"] = true
+L["Place Item Here"] = true
+L["Repair"] = true
+L["Voice Pack"] = true
+L["Socketing"] = true
+L["Interact"] = true
+L["Close"] = true
+L["Details"] = true
+L["Progress"] = true
+
+L["Objectives"] = true
+L["Complete"] = true
+L["Failed"] = true
+
+L["Spells"] = true
+L["Spell Flyout"] = true
+L["Enchant"] = true
+L["Trade"] = true
 
 --Colors
 L["Red"] = true
@@ -58,8 +83,3 @@ L["Grey"] = true
 L["Meta"] = true
 L["Prismatic"] = true
 L["Reward"] = true
-
-L["Unavailable"] = true
-L["Known"] = true
-L["Repair"] = true
-L["Voice Pack"] = true

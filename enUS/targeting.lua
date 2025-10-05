@@ -5,9 +5,6 @@ L["Hard Target"] = true
 L["Announce Hard Target"] = true
 L["Target Change"] = true
 L["Health Monitor"] = true
-L["Announce hard target health percentage"] = true
-L["Play Percentage from Audio Files Instead of TTS"] = true
-L["Interrupt TTS on Target Swap"] = true
 L["Announce Raid Target Marker on Hard Target"] = true
 L["Star"] = true
 L["Circle"] = true
@@ -17,11 +14,6 @@ L["Moon"] = true
 L["Square"] = true
 L["X"] = true
 L["Skull"] = true
-
-L["Interact"] = true
-
-L["Enabled"] = true
-L["Disabled"] = true
 
 --Soft Targeting
 L["Soft Target Enemy"] = true

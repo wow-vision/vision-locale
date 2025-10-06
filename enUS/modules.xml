@@ -9,6 +9,7 @@
   <Script file="misc.lua" />
   <Script file="navigation.lua" />
   <Script file="objects.lua" />
+  <Script file="powers.lua" />
   <Script file="speech.lua" />
   <Script file="targeting.lua" />
   <Script file="ui.lua" />

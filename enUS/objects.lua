@@ -1,6 +1,5 @@
 local L = WowVision:translate("enUS")
 
-
 L["of"] = true
 
 L["Health"] = true

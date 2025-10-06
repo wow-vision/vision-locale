@@ -1,6 +1,7 @@
 local L = WowVision:translate("enUS")
 
 L["Navigation"] = true
+L["Auto-move to Interact Target"] = true
 
 --Compass
 L["Compass"] = true

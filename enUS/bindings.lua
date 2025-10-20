@@ -14,3 +14,4 @@ L["Previous"] = true
 L["Next Window"] = true
 L["Previous Window"] = true
 L["Read Tooltip"] = true
+L["Destroy Cursor Item"] = true

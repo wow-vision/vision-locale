@@ -1,6 +1,8 @@
 local L = WowVision:translate("enUS")
 
 L["WowVision"] = true
+L["UI"] = true
+
 L["Game Menu"] = true
 L["Windows"] = true
 

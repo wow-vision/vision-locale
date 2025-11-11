@@ -2,6 +2,7 @@ local L = WowVision:translate("enUS")
 
 L["WowVision"] = true
 L["UI"] = true
+L["Interrupt Speech on Window Close"] = true
 
 L["Game Menu"] = true
 L["Windows"] = true

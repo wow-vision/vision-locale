@@ -15,3 +15,14 @@ L["Next Window"] = true
 L["Previous Window"] = true
 L["Read Tooltip"] = true
 L["Destroy Cursor Item"] = true
+
+L["Previous Buffer Item"] = true
+L["Next Buffer Item"] = true
+L["Previous Buffer"] = true
+L["Next Buffer"] = true
+L["Action Bars"] = true
+L["Loot Tooltip"] = true
+L["Roll Need"] = true
+L["Roll Greed"] = true
+L["Roll Pass"] = true
+L["Roll Bonus"] = true

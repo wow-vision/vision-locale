@@ -1,5 +1,11 @@
 local L = WowVision:translate("enUS")
 
+L["Bindings"] = true
+L["This input already exists for this binding."] = true
+L["This input conflicts with"] = true
+L["Cannot remove; Binding must have at least one input."] = true
+L["Cannot replace this binding as it requires at least one input."] = true
+
 L["Up"] = true
 L["Down"] = true
 L["Left"] = true
@@ -21,7 +27,7 @@ L["Next Buffer Item"] = true
 L["Previous Buffer"] = true
 L["Next Buffer"] = true
 L["Action Bars"] = true
-L["Loot Tooltip"] = true
+L["Roll Tooltip"] = true
 L["Roll Need"] = true
 L["Roll Greed"] = true
 L["Roll Pass"] = true

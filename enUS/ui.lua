@@ -69,6 +69,9 @@ L["Voice Pack"] = true
 L["Socketing"] = true
 L["Interact"] = true
 L["Close"] = true
+L["Goodbye"] = true
+L["Available Quest"] = true
+L["Accepted Quest"] = true
 L["Details"] = true
 L["Progress"] = true
 

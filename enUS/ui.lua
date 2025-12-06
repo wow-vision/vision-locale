@@ -94,3 +94,26 @@ L["Grey"] = true
 L["Meta"] = true
 L["Prismatic"] = true
 L["Reward"] = true
+
+--Character frame
+L["Equipment"] = true
+L["Stats"] = true
+
+--Equipment slot names (for empty slots)
+L["Head"] = true
+L["Neck"] = true
+L["Shoulders"] = true
+L["Back"] = true
+L["Chest"] = true
+L["Shirt"] = true
+L["Tabard"] = true
+L["Wrist"] = true
+L["Hands"] = true
+L["Waist"] = true
+L["Legs"] = true
+L["Feet"] = true
+L["Finger"] = true
+L["Trinket"] = true
+L["Main Hand"] = true
+L["Off Hand"] = true
+L["Ranged"] = true

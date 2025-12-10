@@ -21,7 +21,7 @@ L["indoors"] = true
 L["Flying Started"] = true
 L["Flying Ended"] = true
 L["flying"] = true
-L["landed"] = true
+L["flying ended"] = true
 
 --Follow
 L["Follow"] = true

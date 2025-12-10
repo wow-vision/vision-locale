@@ -18,6 +18,10 @@ L["Outdoors Alert"] = true
 L["Indoors Alert"] = true
 L["outdoors"] = true
 L["indoors"] = true
+L["Flying Started"] = true
+L["Flying Ended"] = true
+L["flying"] = true
+L["landed"] = true
 
 --Follow
 L["Follow"] = true

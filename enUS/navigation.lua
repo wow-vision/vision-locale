@@ -22,6 +22,10 @@ L["Flying Started"] = true
 L["Flying Ended"] = true
 L["flying"] = true
 L["flying ended"] = true
+L["Swimming Alert"] = true
+L["swimming"] = true
+L["Diving Alert"] = true
+L["diving"] = true
 
 --Follow
 L["Follow"] = true

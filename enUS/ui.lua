@@ -4,6 +4,13 @@ L["WowVision"] = true
 L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
 
+--Combat
+L["Combat"] = true
+L["Combat Started Alert"] = true
+L["Combat Ended Alert"] = true
+L["combat started"] = true
+L["combat ended"] = true
+
 L["Game Menu"] = true
 L["Windows"] = true
 

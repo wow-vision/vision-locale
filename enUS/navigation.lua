@@ -14,6 +14,10 @@ L["south"] = true
 L["southwest"] = true
 L["west"] = true
 L["northwest"] = true
+L["Outdoors Alert"] = true
+L["Indoors Alert"] = true
+L["outdoors"] = true
+L["indoors"] = true
 
 --Follow
 L["Follow"] = true

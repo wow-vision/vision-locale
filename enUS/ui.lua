@@ -105,6 +105,7 @@ L["Reward"] = true
 --Character frame
 L["Equipment"] = true
 L["Stats"] = true
+L["Mounted"] = true
 
 --Equipment slot names (for empty slots)
 L["Head"] = true

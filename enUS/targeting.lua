@@ -20,3 +20,6 @@ L["Soft Target Enemy"] = true
 L["Soft Target Friend"] = true
 L["Soft Target Interact"] = true
 L["Target in Combat Sound"] = true
+
+L["Virtual Focus"] = true
+L["Target Focus"] = true

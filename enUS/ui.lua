@@ -102,6 +102,9 @@ L["Meta"] = true
 L["Prismatic"] = true
 L["Reward"] = true
 
+
+
+
 --Character frame
 L["Equipment"] = true
 L["Stats"] = true
@@ -125,3 +128,10 @@ L["Trinket"] = true
 L["Main Hand"] = true
 L["Off Hand"] = true
 L["Ranged"] = true
+
+
+--Talents
+L["Talents"] = true
+L["Specializations"] = true
+L["Specialization Info"] = true
+L["Glyphs"] = true

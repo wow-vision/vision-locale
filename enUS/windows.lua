@@ -78,6 +78,7 @@ L["Quest"] = true
 
 --Quest Log
 L["Quest Log"] = true
+L["Quest Choice"] = true
 L["Daily"] = true
 L["Weekly"] = true
 L["Quest List"] = true

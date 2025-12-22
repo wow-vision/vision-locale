@@ -81,6 +81,7 @@ L["Available Quest"] = true
 L["Accepted Quest"] = true
 L["Details"] = true
 L["Progress"] = true
+L["Rewards"] = true
 
 L["Objectives"] = true
 L["Complete"] = true

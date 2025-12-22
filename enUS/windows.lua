@@ -34,6 +34,9 @@ L["Warband Scenes"] = true
 --Gossip Frame
 L["Gossip"] = true
 
+--Item Text
+L["Item Text"] = true
+
 --Item Upgrade
 L["Item Upgrade"] = true
 

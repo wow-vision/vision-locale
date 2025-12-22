@@ -50,6 +50,7 @@ L["Search"] = true
 L["Clear"] = true
 L["Results"] = true
 L["Categories"] = true
+L["Page"] = true
 L["Previous Page"] = true
 L["Next Page"] = true
 L["Add"] = true

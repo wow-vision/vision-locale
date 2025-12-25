@@ -55,6 +55,7 @@ L["Previous Page"] = true
 L["Next Page"] = true
 L["Add"] = true
 L["Remove"] = true
+L["Unlearn"] = true
 
 L["Empty"] = true
 L["Items"] = true

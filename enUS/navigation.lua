@@ -35,3 +35,8 @@ L["Play Sound on Follow or Unfollow"] = true
 L["Maps"] = true
 L["Zone Changed Alert"] = true
 L["Subzone Changed Alert"] = true
+
+--Atlas
+L["Atlas"] = true
+L["Key"] = true
+L["Game Version"] = true

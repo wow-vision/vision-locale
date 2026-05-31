@@ -50,3 +50,6 @@ L["Previous Page"] = "Vorherige Seite"
 L["Next Page"] = "Nächste Seite"
 L["Item Selected"] = "Gegenstand ausgewählt"
 L["Selected"] = "Ausgewählt"
+
+L["Min Stack Size"] = "Mindeststapelgröße"
+L["No Results"] = "Keine Ergebnisse"

@@ -26,3 +26,19 @@ L["Short"] = true
 L["Medium"] = true
 L["Long"] = true
 L["Very Long"] = true
+
+L["Min Stack Size"] = true
+L["No Results"] = true
+
+-- AH page scanner
+L["Scan"] = true
+L["Abort Scan"] = true
+L["Scan complete"] = true
+L["Scan aborted"] = true
+L["Scan failed"] = true
+L["Scan Results"] = true
+L["Scanning"] = true
+L["scanned"] = true
+L["Load More"] = true
+L["Item purchased"] = true
+L["Item not found"] = true

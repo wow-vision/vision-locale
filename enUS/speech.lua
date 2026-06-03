@@ -9,3 +9,4 @@ L["Screen Reader"] = true
 L["Speech Style"] = true
 L["Direct"] = true
 L["Buffered"] = true
+L["Speech Queue"] = true

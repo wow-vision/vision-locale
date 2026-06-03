@@ -29,3 +29,36 @@ L["Very Long"] = true
 
 L["Min Stack Size"] = true
 L["No Results"] = true
+
+-- AH scanner / price database (PRs 9-11)
+L["Scan"] = true
+L["Scanning"] = true
+L["Scan Results"] = true
+L["Scan complete"] = true
+L["Scan aborted"] = true
+L["Scan failed"] = true
+L["Abort Scan"] = true
+L["Auto Scan"] = true
+L["Full Scan"] = true
+L["Full scan started"] = true
+L["Full scan complete"] = true
+L["Full scan aborted"] = true
+L["Full scan failed"] = true
+L["Load More"] = true
+L["scanned"] = true
+L["auctions"] = true
+L["items updated"] = true
+L["Auction Price"] = true
+L["Auction Prices"] = true
+L["Tooltip Prices"] = true
+L["Price Options"] = true
+L["Vendor Buy"] = true
+L["Vendor Sell"] = true
+L["Day Mean"] = true
+L["Mean Days"] = true
+L["History Days"] = true
+L["days ago"] = true
+L["Auction not open"] = true
+L["Cooldown active"] = true
+L["Item not found"] = true
+L["Item purchased"] = true

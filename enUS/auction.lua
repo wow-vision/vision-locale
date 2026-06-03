@@ -26,3 +26,6 @@ L["Short"] = true
 L["Medium"] = true
 L["Long"] = true
 L["Very Long"] = true
+
+L["Min Stack Size"] = true
+L["No Results"] = true

@@ -95,6 +95,15 @@ L["Inbox"] = true
 L["From"] = true
 L["Subject"] = true
 L["Letter"] = true
+L["Send To"] = true
+L["Send Mail"] = true
+L["Attachments"] = true
+L["Postage"] = true
+L["Body"] = true
+L["Money"] = true
+L["Send Money"] = true
+L["COD"] = true
+L["Drop Item"] = true
 
 --Merchant
 L["Merchant"] = true

@@ -35,6 +35,11 @@ L["Play Sound on Follow or Unfollow"] = true
 L["Maps"] = true
 L["Zone Changed Alert"] = true
 L["Subzone Changed Alert"] = true
+L["Beacon"] = true
+L["Beacon Sound"] = true
+L["Beacon Aligned"] = true
+L["Beacon Off Course"] = true
+L["Waypoint Reached"] = true
 
 --Atlas
 L["Atlas"] = true

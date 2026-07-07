@@ -151,3 +151,4 @@ L["Recipes"] = "Rezepte"
 
 --Training
 L["Training"] = "Ausbildung"
+L["Macro Text"] = "Makrotext"

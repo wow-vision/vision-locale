@@ -215,3 +215,4 @@ L["minute"] = true
 L["minutes"] = true
 L["second"] = true
 L["seconds"] = true
+L["Number"] = true

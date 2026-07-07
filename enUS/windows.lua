@@ -159,3 +159,4 @@ L["Recipes"] = true
 
 --Training
 L["Training"] = true
+L["Macro Text"] = true

@@ -216,3 +216,4 @@ L["minutes"] = true
 L["second"] = true
 L["seconds"] = true
 L["Number"] = true
+L["Radio"] = true

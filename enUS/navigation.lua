@@ -50,3 +50,5 @@ L["No route found"] = true
 L["Arrived"] = true
 L["waypoints"] = true
 L["yards"] = true
+L["Beacon set"] = true
+L["Beacon stopped"] = true

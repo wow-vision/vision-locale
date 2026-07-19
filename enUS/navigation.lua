@@ -70,3 +70,6 @@ L["Falling Sound"] = true
 L["Falling Announcement"] = true
 L["Ignore Jumps"] = true
 L["Delay (milliseconds)"] = true
+L["Turn to Waypoint"] = true
+L["Facing"] = true
+L["No active waypoint"] = true

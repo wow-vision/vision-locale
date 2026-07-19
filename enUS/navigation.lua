@@ -80,3 +80,6 @@ L["End of route"] = true
 L["Start of route"] = true
 L["Arrival Distance"] = true
 L["Cycle Arrival Distance"] = true
+L["Short Range"] = true
+L["Medium Range"] = true
+L["Long Range"] = true

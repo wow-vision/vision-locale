@@ -83,3 +83,4 @@ L["Cycle Arrival Distance"] = true
 L["Short Range"] = true
 L["Medium Range"] = true
 L["Long Range"] = true
+L["Arrival Radius"] = true

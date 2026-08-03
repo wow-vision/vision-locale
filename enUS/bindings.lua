@@ -37,3 +37,5 @@ L["Roll Need"] = true
 L["Roll Greed"] = true
 L["Roll Pass"] = true
 L["Roll Bonus"] = true
+L["Scroll Up"] = true
+L["Scroll Down"] = true

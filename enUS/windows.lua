@@ -160,3 +160,12 @@ L["Recipes"] = true
 --Training
 L["Training"] = true
 L["Macro Text"] = true
+L["Friends"] = true
+L["Away"] = true
+L["Busy"] = true
+L["Note"] = true
+L["Friend request"] = true
+L["Enter to accept, Backspace to decline"] = true
+L["Controls"] = true
+L["Column"] = true
+L["This tab is not supported yet"] = true

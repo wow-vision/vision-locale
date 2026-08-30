@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+# Sku locale strings (local-only workaround)
+enUS/sku.lua
+deDE/sku.lua

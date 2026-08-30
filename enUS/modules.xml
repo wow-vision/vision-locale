@@ -17,5 +17,6 @@
   <Script file="targeting.lua" />
   <Script file="ui.lua" />
   <Script file="windows.lua" />
+  <Script file="sku.lua" />
 
 </Ui>

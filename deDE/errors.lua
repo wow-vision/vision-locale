@@ -3,4 +3,6 @@ if not L then return end
 
 --Errors
 L["Errors"] = "Fehler"
-L["Announce Errors"] = "Fehler ansagen"
+L["Per-Error Filter"] = "Filter pro Fehler"
+L["Show All"] = "Alle anzeigen"
+L["Show Seen Only"] = "Nur gesehene anzeigen"

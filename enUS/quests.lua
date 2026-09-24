@@ -42,3 +42,8 @@ L["Repeatable"] = true
 L["phased out"] = true
 L["No quest data source"] = true
 L["Quest Giver"] = true
+
+-- Quest areas (the shaded objective areas of tracked quests)
+L["Quest Area Alert"] = true
+L["Entering area"] = true
+L["Leaving area"] = true

@@ -42,6 +42,7 @@ L["Repeatable"] = "Wiederholbar"
 L["phased out"] = "ausgephast"
 L["No quest data source"] = "Keine Questdatenquelle"
 L["Quest Giver"] = "Questgeber"
+L["seen"] = "gesehen"
 
 -- Quest areas (the shaded objective areas of tracked quests)
 L["Quest Area Alert"] = "Questgebiet"

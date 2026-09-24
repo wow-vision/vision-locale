@@ -13,6 +13,7 @@
   <Script file="objects.lua" />
   <Script file="operators.lua" />
   <Script file="powers.lua" />
+  <Script file="quests.lua" />
   <Script file="speech.lua" />
   <Script file="targeting.lua" />
   <Script file="ui.lua" />

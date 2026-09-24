@@ -137,6 +137,7 @@ L["Weekly"] = true
 L["Quest List"] = true
 L["Quests"] = true
 L["Track"] = true
+L["tracked"] = true
 L["Grey"] = true
 L["Green"] = true
 L["Yellow"] = true

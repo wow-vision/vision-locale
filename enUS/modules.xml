@@ -9,6 +9,7 @@
   <Script file="colors.lua" />
   <Script file="errors.lua" />
   <Script file="misc.lua" />
+  <Script file="minimap.lua" />
   <Script file="monitors.lua" />
   <Script file="navigation.lua" />
   <Script file="objects.lua" />

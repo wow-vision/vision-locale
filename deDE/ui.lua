@@ -63,6 +63,7 @@ L["Remove"] = "Entfernen"
 L["Unlearn"] = "Verlernen"
 
 L["Empty"] = "Leer"
+L["Not implemented yet"] = "Noch nicht umgesetzt"
 L["None"] = "Keine"
 L["Type"] = "Typ"
 L["Select Type"] = "Typ auswählen"

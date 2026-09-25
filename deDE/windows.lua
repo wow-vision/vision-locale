@@ -103,6 +103,10 @@ L["in stock"] = "auf Lager"
 L["Repair All"] = "Alles reparieren"
 L["Repair Item"] = "Gegenstand reparieren"
 L["Guild Bank Repair"] = "Gildenbankreparatur"
+L["Automatically Sell Poor Items"] = "Automatischer Verkauf schlechter Gegenstände"
+L["Automatically Repair If Possible"] = "Automatisch reparieren, falls möglich"
+L["Sold %d poor quality items for %s."] = "%d schlechte Gegenstände für %s verkauft."
+L["Repaired all items for %s."] = "Alles für %s repariert."
 
 --popups
 L["Popups"] = "Popups"

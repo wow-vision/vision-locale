@@ -111,6 +111,10 @@ L["in stock"] = true
 L["Repair All"] = true
 L["Repair Item"] = true
 L["Guild Bank Repair"] = true
+L["Automatically Sell Poor Items"] = true
+L["Automatically Repair If Possible"] = true
+L["Sold %d poor quality items for %s."] = true
+L["Repaired all items for %s."] = true
 
 --popups
 L["Popups"] = true

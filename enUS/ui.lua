@@ -62,6 +62,7 @@ L["Remove"] = true
 L["Unlearn"] = true
 
 L["Empty"] = true
+L["Not implemented yet"] = true
 L["None"] = true
 L["Type"] = true
 L["Select Type"] = true

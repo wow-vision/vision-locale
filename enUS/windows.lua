@@ -228,3 +228,18 @@ L["Equip"] = true
 L["Read"] = true
 L["Use"] = true
 L["WowVision unlocked your action bars so that dragging works. You can lock them again in the game options under Action Bars."] = true
+
+-- Cooldown Manager
+L["Cooldown Manager"] = true
+L["Settings"] = true
+L["Layout"] = true
+L["Unlearned"] = true
+L["Picked up"] = true
+L["Pickup cancelled"] = true
+L["Moved"] = true
+L["1 alert"] = true
+L["%d alerts"] = true
+L["Alert Editor"] = true
+L["Reload Interface"] = true
+L["Changes made here apply after the interface reloads. A Reload Interface button is at the end of the window."] = true
+L["Cooldown manager changes apply after you reload the interface. Type /reload when ready."] = true

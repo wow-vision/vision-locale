@@ -14,3 +14,4 @@ L["Tracked Buffer"] = true
 
 -- Dynamic Buffers
 L["General"] = true
+L["Invert Item Direction"] = true

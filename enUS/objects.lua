@@ -5,5 +5,7 @@ L["of"] = true
 L["Health"] = true
 L["Power"] = true
 L["XP"] = true
+L["Next Level"] = true
+L["to level"] = true
 L["Money"] = true
 L["PVP"] = true

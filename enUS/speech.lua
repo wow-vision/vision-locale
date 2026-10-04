@@ -10,3 +10,5 @@ L["Speech Style"] = true
 L["Direct"] = true
 L["Buffered"] = true
 L["Speech Queue"] = true
+L["Sound Between Chat Lines"] = true
+L["Activity Sound When Unfocused"] = true

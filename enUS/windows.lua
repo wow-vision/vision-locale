@@ -152,6 +152,27 @@ L["Red"] = true
 L["Range"] = true
 L["Range Changed"] = true
 
+--Talent trees (WoW: Forever)
+L["Row"] = true
+L["Choice"] = true
+L["Learn"] = true
+L["Invalid"] = true
+L["Requires %s"] = true
+L["or"] = true
+L["Search Match"] = true
+L["Unsaved Changes"] = true
+L["Undo Changes"] = true
+L["Reset Tree"] = true
+L["Point"] = true
+
+--Legacy (WoW: Forever)
+L["Legacy"] = true
+L["Challenges"] = true
+L["Completed"] = true
+L["Tracked"] = true
+L["Earned"] = true
+L["Trees"] = true
+
 --Professions
 L["Professions"] = true
 

@@ -21,6 +21,10 @@ L["Containers"] = "Behälter"
 L["Bank Bag Slots"] = "Banktaschenplätze"
 L["Bag Menu"] = "Taschenmenü"
 L["Close Bag"] = "Tasche schließen"
+L["Quest Item"] = "Questgegenstand"
+L["Junk"] = "Plunder"
+L["Filtered"] = "Gefiltert"
+L["Locked"] = "Gesperrt"
 L["Sort Bags"] = "Taschen sortieren"
 L["Add Slots"] = "Plätze hinzufügen"
 L["Bag Controls"] = "Taschensteuerung"
@@ -154,6 +158,27 @@ L["Red"] = "Rot"
 --Range
 L["Range"] = "Reichweite"
 L["Range Changed"] = "Reichweite geändert"
+
+--Talent trees (WoW: Forever)
+L["Row"] = "Reihe"
+L["Choice"] = "Auswahl"
+L["Learn"] = "Erlernen"
+L["Invalid"] = "Ungültig"
+L["Requires %s"] = "Benötigt %s"
+L["or"] = "oder"
+L["Search Match"] = "Suchtreffer"
+L["Unsaved Changes"] = "Ungespeicherte Änderungen"
+L["Undo Changes"] = "Änderungen rückgängig machen"
+L["Reset Tree"] = "Baum zurücksetzen"
+L["Point"] = "Punkt"
+
+--Legacy (WoW: Forever)
+L["Legacy"] = "Vermächtnis"
+L["Challenges"] = "Herausforderungen"
+L["Completed"] = "Abgeschlossen"
+L["Tracked"] = "Verfolgt"
+L["Earned"] = "Erhalten"
+L["Trees"] = "Bäume"
 
 --Professions
 L["Professions"] = "Berufe"

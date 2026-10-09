@@ -172,6 +172,14 @@ L["Undo Changes"] = "Änderungen rückgängig machen"
 L["Reset Tree"] = "Baum zurücksetzen"
 L["Point"] = "Punkt"
 
+--Legacy (WoW: Forever)
+L["Legacy"] = "Vermächtnis"
+L["Challenges"] = "Herausforderungen"
+L["Completed"] = "Abgeschlossen"
+L["Tracked"] = "Verfolgt"
+L["Earned"] = "Erhalten"
+L["Trees"] = "Bäume"
+
 --Professions
 L["Professions"] = "Berufe"
 

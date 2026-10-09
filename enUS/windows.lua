@@ -165,6 +165,14 @@ L["Undo Changes"] = true
 L["Reset Tree"] = true
 L["Point"] = true
 
+--Legacy (WoW: Forever)
+L["Legacy"] = true
+L["Challenges"] = true
+L["Completed"] = true
+L["Tracked"] = true
+L["Earned"] = true
+L["Trees"] = true
+
 --Professions
 L["Professions"] = true
 

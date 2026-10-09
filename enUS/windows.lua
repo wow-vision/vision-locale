@@ -80,6 +80,8 @@ L["Activities"] = true
 L["Comment"] = true
 L["Roles"] = true
 L["Members"] = true
+L["Play Style"] = true
+L["Invite"] = true
 
 --Loot
 L["Loot"] = true

@@ -1,0 +1,32 @@
+local L = LibStub("AceLocale-3.0"):NewLocale("WowVision", "frFR")
+if not L then return end
+
+L["Chat"] = "Discussion"
+L["Message Alert"] = "Alerte de message"
+
+-- Chat line parts (the clickable pieces of a message)
+L["Previous Link in Message"] = "Lien précédent du message"
+L["Next Link in Message"] = "Lien suivant du message"
+L["Shift Click"] = "Maj-clic"
+L["Copy Line"] = "Copier la ligne"
+L["Copy now"] = "Copiez maintenant"
+L["Chat Box Opened"] = "Saisie de discussion ouverte"
+L["Chat Box Closed"] = "Saisie de discussion fermée"
+L["Links unavailable here"] = "Liens indisponibles ici"
+L["Player"] = "Joueur"
+L["Channel"] = "Canal"
+L["Link"] = "Lien"
+L["Item"] = "Objet"
+L["Quest"] = "Quête"
+L["Spell"] = "Sort"
+L["Talent"] = "Talent"
+L["Achievement"] = "Haut fait"
+L["Profession"] = "Métier"
+L["Currency"] = "Monnaie"
+L["Whisper %s"] = "Chuchoter à %s"
+L["Player Menu for %s"] = "Menu joueur de %s"
+L["Who %s"] = "Qui pour %s"
+L["Write to %s"] = "Écrire à %s"
+L["Channel Menu for %s"] = "Menu du canal %s"
+L["Read Tooltip of %s"] = "Lire l'infobulle de %s"
+L["Link %s in Chat"] = "Lier %s dans la discussion"

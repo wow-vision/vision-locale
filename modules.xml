@@ -3,5 +3,6 @@
 
   <Include file="enUS/modules.xml" />
   <Include file="deDE/modules.xml" />
+  <Include file="frFR/modules.xml" />
 
 </Ui>

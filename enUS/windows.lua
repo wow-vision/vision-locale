@@ -80,6 +80,9 @@ L["Activities"] = true
 L["Comment"] = true
 L["Roles"] = true
 L["Members"] = true
+L["Play Style"] = true
+L["Invite"] = true
+L["Group search blocked, reload to search again"] = true
 
 --Loot
 L["Loot"] = true

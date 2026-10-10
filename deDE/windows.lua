@@ -92,6 +92,9 @@ L["Activities"] = "Aktivitäten"
 L["Comment"] = "Kommentar"
 L["Roles"] = "Rollen"
 L["Members"] = "Mitglieder"
+L["Play Style"] = "Spielstil"
+L["Invite"] = "Einladen"
+L["Group search blocked, reload to search again"] = "Gruppensuche blockiert, zum erneuten Suchen neu laden"
 
 --Loot
 L["Loot"] = "Beute"

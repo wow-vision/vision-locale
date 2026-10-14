@@ -10,6 +10,12 @@ L["Combat Started Alert"] = true
 L["Combat Ended Alert"] = true
 L["combat started"] = true
 L["combat ended"] = true
+L["Enemy Count Alert"] = true
+L["Count Enemies"] = true
+L["Attacking You or Your Group"] = true
+L["Attacking You"] = true
+L["Count Elite Enemies Only"] = true
+L["Turn on enemy nameplates to count enemies"] = true
 
 L["Game Menu"] = true
 L["Windows"] = true

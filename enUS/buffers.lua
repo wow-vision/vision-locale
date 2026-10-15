@@ -11,6 +11,8 @@ L["Previous Buffer Group"] = true
 L["Next Buffer Group"] = true
 L["Static Buffer"] = true
 L["Tracked Buffer"] = true
+L["Chat Tab Buffer"] = true
+L["Chat Tab"] = true
 
 -- Dynamic Buffers
 L["General"] = true

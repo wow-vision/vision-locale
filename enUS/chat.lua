@@ -2,6 +2,10 @@ local L = WowVision:translate("enUS")
 
 L["Chat"] = true
 L["Message Alert"] = true
+L["Chat Tab %d"] = true
+L["Whisper Tabs"] = true
+L["Speak Messages"] = true
+L["When the Tab Is Shown"] = true
 
 -- Chat line parts (the clickable pieces of a message)
 L["Previous Link in Message"] = true

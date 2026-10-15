@@ -12,6 +12,8 @@ L["Previous Buffer Group"] = "Groupe de tampons précédent"
 L["Next Buffer Group"] = "Groupe de tampons suivant"
 L["Static Buffer"] = "Tampon statique"
 L["Tracked Buffer"] = "Tampon suivi"
+L["Chat Tab Buffer"] = "Tampon d'onglet de discussion"
+L["Chat Tab"] = "Onglet de discussion"
 
 -- Dynamic Buffers
 L["General"] = "Général"

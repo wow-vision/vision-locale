@@ -12,6 +12,8 @@ L["Previous Buffer Group"] = "Vorherige Puffergruppe"
 L["Next Buffer Group"] = "Nächste Puffergruppe"
 L["Static Buffer"] = "Statischer Puffer"
 L["Tracked Buffer"] = "Verfolgter Puffer"
+L["Chat Tab Buffer"] = "Chat-Reiter-Puffer"
+L["Chat Tab"] = "Chat-Reiter"
 
 -- Dynamic Buffers
 L["General"] = "Allgemein"

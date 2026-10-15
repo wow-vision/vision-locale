@@ -3,6 +3,10 @@ if not L then return end
 
 L["Chat"] = "Chat"
 L["Message Alert"] = "Nachrichtenalarm"
+L["Chat Tab %d"] = "Chat-Reiter %d"
+L["Whisper Tabs"] = "Flüster-Reiter"
+L["Speak Messages"] = "Nachrichten sprechen"
+L["When the Tab Is Shown"] = "Wenn der Reiter angezeigt wird"
 
 -- Chat line parts (the clickable pieces of a message)
 L["Previous Link in Message"] = "Vorheriger Link in der Nachricht"

@@ -10,4 +10,3 @@ L["Error"] = true
 L["Player"] = true
 L["Corpse"] = true
 L["Graveyards"] = true
-L["Not dead"] = true

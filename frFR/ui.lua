@@ -5,6 +5,7 @@ L["WowVision"] = "WowVision"
 L["UI"] = "Interface"
 L["Interrupt Speech on Window Close"] = "Interrompre la parole à la fermeture d'une fenêtre"
 L["Letter Navigation in Menus"] = "Navigation par lettres dans les menus"
+L["Skip Empty Slots on Double Arrow"] = "Sauter les emplacements vides par double appui sur une flèche"
 L["No results"] = "Aucun résultat"
 
 --Combat

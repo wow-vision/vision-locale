@@ -6,3 +6,4 @@ L["Miscellaneous"] = true
 L["Cursor"] = true
 L["Tooltip"] = true
 L["Quality"] = true
+L["Compare with Equipped"] = true

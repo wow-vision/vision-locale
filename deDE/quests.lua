@@ -50,3 +50,8 @@ L["seen"] = "gesehen"
 L["Quest Area Alert"] = "Questgebiet"
 L["Entering area"] = "Betrete Gebiet"
 L["Leaving area"] = "Verlasse Gebiet"
+
+-- Quest progress sounds (an objective moved forward, the quest is complete)
+L["Quest Progress Alert"] = "Questfortschritt"
+L["Quest Progress Sound"] = "Ton bei Fortschritt"
+L["Quest Complete Sound"] = "Ton bei abgeschlossener Quest"

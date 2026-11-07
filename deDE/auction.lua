@@ -90,3 +90,9 @@ L["Auction not open"] = "Auktionshaus nicht geöffnet"
 L["Cooldown active"] = "Abklingzeit aktiv"
 L["Item not found"] = "Gegenstand nicht gefunden"
 L["Item purchased"] = "Gegenstand gekauft"
+
+-- Scan result and cooldown wording
+L["Scan complete, %s Results in %s scanned"] = "Scan abgeschlossen, %s Ergebnisse in %s gescannten"
+L["%s min %s sec"] = "%s Min. %s Sek."
+L["%s min"] = "%s Min."
+L["%s sec"] = "%s Sek."

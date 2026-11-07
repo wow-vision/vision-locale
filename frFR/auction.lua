@@ -77,3 +77,9 @@ L["Sort"] = "Trier"
 L["Selected"] = "Sélectionné"
 L["Create Auction"] = "Créer une enchère"
 L["Item Selected"] = "Objet sélectionné"
+
+-- Scan result and cooldown wording
+L["Scan complete, %s Results in %s scanned"] = "Analyse terminée, %s Résultats sur %s analysés"
+L["%s min %s sec"] = "%s min %s s"
+L["%s min"] = "%s min"
+L["%s sec"] = "%s s"

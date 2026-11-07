@@ -76,3 +76,9 @@ L["Sort"] = true
 L["Selected"] = true
 L["Create Auction"] = true
 L["Item Selected"] = true
+
+-- Scan result and cooldown wording
+L["Scan complete, %s Results in %s scanned"] = true
+L["%s min %s sec"] = true
+L["%s min"] = true
+L["%s sec"] = true

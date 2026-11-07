@@ -239,3 +239,26 @@ L["Radio"] = true
 L["Scope"] = true
 L["Global"] = true
 L["Glyphs not yet implemented"] = true
+
+-- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
+L["Apply Recommended Game Settings"] = true
+L["Not in combat: try again after the fight"] = true
+L["Game settings: nothing to change"] = true
+L["Game settings changed:"] = true
+L["Already set:"] = true
+L["Could not set:"] = true
+L["%s: %s, before %s"] = true
+L["nothing"] = true
+L["Auto Loot"] = true
+L["All Action Bars"] = true
+L["Audio Assist"] = true
+L["Audio Assist Combat Start"] = true
+L["Audio Assist Combat End"] = true
+L["Audio Assist Target Name"] = true
+L["Audio Assist Your Debuffs"] = true
+L["Audio Assist Your Health"] = true
+L["Audio Assist Target Health"] = true
+L["Audio Assist Your Health Style"] = true
+L["Audio Assist Target Health Style"] = true
+L["Audio Assist Resource"] = true
+L["Audio Assist You Are Targeted"] = true

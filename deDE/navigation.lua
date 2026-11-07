@@ -330,3 +330,8 @@ L["No route to your target"] = "Keine Route zu deinem Ziel"
 L["Your floor is not clear here. Choose your start."] = "Deine Ebene ist hier nicht eindeutig. Wähle deinen Start."
 L["no entry"] = "kein Einstieg"
 L["unreachable"] = "nicht erreichbar"
+
+-- what the player bumps into (bumps.lua)
+L["Name What I Bump Into"] = "Benennen, wogegen ich laufe"
+L["wall"] = "Wand"
+L["wall of %s"] = "Wand von %s"

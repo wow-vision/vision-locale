@@ -327,3 +327,8 @@ L["No route to your target"] = true
 L["Your floor is not clear here. Choose your start."] = true
 L["no entry"] = true
 L["unreachable"] = true
+
+-- what the player bumps into (bumps.lua)
+L["Name What I Bump Into"] = true
+L["wall"] = true
+L["wall of %s"] = true

@@ -254,6 +254,7 @@ L["Target Radius Around the Network (Yards)"] = true
 L["Height Tolerance of a Floor (Yards)"] = true
 L["Step Back at Gates"] = true
 L["Prepare Neighbouring Zones"] = true
+L["Names in Your Language"] = true
 L["Searching the route to %s"] = true
 L["En route to %s, waypoint %d of %d"] = true
 L["Waiting for the far end of %s"] = true

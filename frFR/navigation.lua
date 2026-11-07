@@ -255,6 +255,7 @@ L["Target Radius Around the Network (Yards)"] = "Rayon de la cible autour du ré
 L["Height Tolerance of a Floor (Yards)"] = "Tolérance de hauteur d'un étage (mètres)"
 L["Step Back at Gates"] = "Reculer d'un pas aux passages étroits"
 L["Prepare Neighbouring Zones"] = "Préparer les zones voisines"
+L["Names in Your Language"] = "Noms dans la langue du jeu"
 L["Searching the route to %s"] = "Recherche de l'itinéraire vers %s"
 L["En route to %s, waypoint %d of %d"] = "En route vers %s, point %d sur %d"
 L["Waiting for the far end of %s"] = "En attente de l'autre extrémité de %s"

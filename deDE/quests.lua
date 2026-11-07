@@ -4,6 +4,7 @@ if not L then return end
 -- Quests module (Questie-backed quest data)
 L["Nearby Level Range"] = "Stufenbereich für Quests in der Nähe"
 L["Include Repeatable Quests"] = "Wiederholbare Quests einbeziehen"
+L["Sort Quests by Proximity"] = "Quests nach Entfernung sortieren"
 L["Questie is not loaded"] = "Questie ist nicht geladen"
 L["Questie is still loading"] = "Questie lädt noch"
 L["No nearby quests"] = "Keine Quests in der Nähe"

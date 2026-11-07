@@ -3,6 +3,7 @@ local L = WowVision:translate("enUS")
 -- Quests module (Questie-backed quest data)
 L["Nearby Level Range"] = true
 L["Include Repeatable Quests"] = true
+L["Sort Quests by Proximity"] = true
 L["Questie is not loaded"] = true
 L["Questie is still loading"] = true
 L["No nearby quests"] = true

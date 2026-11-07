@@ -51,3 +51,12 @@ L["seen"] = "vu"
 L["Quest Area Alert"] = "Alerte de zone de quête"
 L["Entering area"] = "Entrée dans la zone"
 L["Leaving area"] = "Sortie de la zone"
+
+-- Quest progress sounds (an objective moved forward, the quest is complete)
+L["Quest Progress Alert"] = "Alerte de progression de quête"
+L["Quest Progress Sound"] = "Son de progression"
+L["Quest Complete Sound"] = "Son de quête terminée"
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = "Niveau requis"
+L["%d players"] = "%d joueurs"

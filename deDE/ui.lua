@@ -4,6 +4,7 @@ if not L then return end
 L["WowVision"] = "WowVision"
 L["UI"] = "Benutzeroberfläche"
 L["Interrupt Speech on Window Close"] = "Sprache beim Schließen des Fensters unterbrechen"
+L["Sounds on Opening and Closing WowVision Menus"] = "Töne beim Öffnen und Schließen von WowVision-Menüs"
 L["Letter Navigation in Menus"] = "Buchstaben-Navigation in Menüs"
 L["No results"] = "Keine Ergebnisse"
 

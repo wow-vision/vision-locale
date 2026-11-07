@@ -50,3 +50,12 @@ L["seen"] = true
 L["Quest Area Alert"] = true
 L["Entering area"] = true
 L["Leaving area"] = true
+
+-- Quest progress sounds (an objective moved forward, the quest is complete)
+L["Quest Progress Alert"] = true
+L["Quest Progress Sound"] = true
+L["Quest Complete Sound"] = true
+
+-- Quest tooltip in the scanner (Shift+Down on a quest)
+L["Required Level"] = true
+L["%d players"] = true

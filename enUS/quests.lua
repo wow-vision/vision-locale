@@ -50,3 +50,8 @@ L["seen"] = true
 L["Quest Area Alert"] = true
 L["Entering area"] = true
 L["Leaving area"] = true
+
+-- Quest progress (the game's progress messages)
+L["Quest Progress Alert"] = true
+L["Objective Complete Alert"] = true
+L["Quest Complete Alert"] = true

@@ -51,3 +51,8 @@ L["seen"] = "vu"
 L["Quest Area Alert"] = "Alerte de zone de quête"
 L["Entering area"] = "Entrée dans la zone"
 L["Leaving area"] = "Sortie de la zone"
+
+-- Quest progress (the game's progress messages)
+L["Quest Progress Alert"] = "Progression de quête"
+L["Objective Complete Alert"] = "Objectif terminé"
+L["Quest Complete Alert"] = "Quête terminée"

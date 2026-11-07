@@ -317,6 +317,9 @@ L["Route to the Nearest Unvisited of the Same Name"] = true
 L["Direct to the Nearest Unvisited of the Same Name"] = true
 L["Choose a destination in the navigation window first"] = true
 L["No unvisited %s found"] = true
+L["Auto Direct"] = true
+L["Auto Route"] = true
+L["Auto mode needs Visited Waypoints switched on"] = true
 
 -- The route to the target (core/navigation/targetRoute.lua)
 L["Route to Your Target"] = true

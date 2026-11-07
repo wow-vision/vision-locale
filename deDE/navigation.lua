@@ -320,6 +320,9 @@ L["Route to the Nearest Unvisited of the Same Name"] = "Route zum nächsten unbe
 L["Direct to the Nearest Unvisited of the Same Name"] = "Direkt zum nächsten unbesuchten gleichnamigen Ziel"
 L["Choose a destination in the navigation window first"] = "Wähle zuerst ein Ziel im Navigationsfenster"
 L["No unvisited %s found"] = "Kein unbesuchtes Ziel %s gefunden"
+L["Auto Direct"] = "Automatisch direkt"
+L["Auto Route"] = "Automatisch routen"
+L["Auto mode needs Visited Waypoints switched on"] = "Der Automatikmodus braucht die besuchten Wegpunkte, schalte sie ein"
 
 -- The route to the target (core/navigation/targetRoute.lua)
 L["Route to Your Target"] = "Route zu deinem Ziel"

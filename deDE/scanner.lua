@@ -5,6 +5,7 @@ if not L then return end
 L["Scanner"] = "Scanner"
 L["Scan Radius"] = "Scan-Radius"
 L["Entries Per Category"] = "Einträge pro Kategorie"
+L["Scanner as Tree"] = "Scanner als Baum"
 L["Refresh"] = "Aktualisieren"
 L["Refreshed"] = "Aktualisiert"
 L["Error"] = "Fehler"

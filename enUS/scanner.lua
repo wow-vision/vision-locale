@@ -4,6 +4,7 @@ local L = WowVision:translate("enUS")
 L["Scanner"] = true
 L["Scan Radius"] = true
 L["Entries Per Category"] = true
+L["Scanner as Tree"] = true
 L["Refresh"] = true
 L["Refreshed"] = true
 L["Error"] = true

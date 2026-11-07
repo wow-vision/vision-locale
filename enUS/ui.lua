@@ -4,6 +4,7 @@ L["WowVision"] = true
 L["UI"] = true
 L["Interrupt Speech on Window Close"] = true
 L["Letter Navigation in Menus"] = true
+L["WowVision Sound Channel"] = true
 L["No results"] = true
 L["Reload, then search settings for Discord, to use this"] = true
 

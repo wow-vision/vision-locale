@@ -37,10 +37,12 @@ L["Play Sound on Follow or Unfollow"] = "Jouer un son au début ou à la fin du 
 
 --Maps
 L["Maps"] = "Cartes"
+L["Beacon Settings"] = "Réglages de la balise"
 L["Zone Changed Alert"] = "Alerte changement de zone"
 L["Subzone Changed Alert"] = "Alerte changement de sous-zone"
 L["Beacon"] = "Balise"
 L["Beacon Sound"] = "Son de la balise"
+L["Beacon Volume"] = "Volume de la balise"
 L["Beacon Aligned"] = "Balise alignée"
 L["Beacon Off Course"] = "Balise hors trajectoire"
 L["Waypoint Reached"] = "Point de passage atteint"

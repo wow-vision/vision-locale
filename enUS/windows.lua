@@ -115,8 +115,12 @@ L["Repair All"] = true
 L["Repair Item"] = true
 L["Guild Bank Repair"] = true
 L["Automatically Sell Poor Items"] = true
+L["Automatically Sell Items Marked as Junk"] = true
 L["Automatically Repair If Possible"] = true
 L["Sold %d poor quality items for %s."] = true
+L["Sold marked junk for %s: %s."] = true
+L["Sold marked junk and %d poor quality items for %s: %s."] = true
+L["%s and %d more"] = true
 L["Repaired all items for %s."] = true
 
 --popups
@@ -314,3 +318,31 @@ L["Permissions"] = true
 L["Accept Group Invitation"] = true
 L["Group invitation accepted"] = true
 L["No group invitation"] = true
+
+-- Junk: items marked in the bags, sold by themselves at a merchant
+L["Select Junk"] = true
+L["Mark as Junk"] = true
+L["Unmark as Junk"] = true
+L["%s: marked as junk"] = true
+L["%s: no longer junk"] = true
+L["%s cannot be sold to a vendor."] = true
+L["This item cannot be marked as junk."] = true
+L["Forget All Junk Marks"] = true
+L["Take the junk mark off every item?"] = true
+L["Junk marks forgotten"] = true
+
+-- Item Lists: categories of items, a stop right after the bags
+L["Item Lists"] = true
+L["New Items"] = true
+
+-- Favorites: items marked in the bags to find them again, never sold
+L["Favorites"] = true
+L["Select Favorite"] = true
+L["Mark as Favorite"] = true
+L["Unmark as Favorite"] = true
+L["%s: marked as favorite"] = true
+L["%s: no longer a favorite"] = true
+L["This item cannot be marked as a favorite."] = true
+L["Forget All Favorites"] = true
+L["Take the favorite mark off every item?"] = true
+L["Favorites forgotten"] = true

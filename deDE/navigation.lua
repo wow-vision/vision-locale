@@ -5,6 +5,7 @@ L["Navigation"] = "Navigation"
 L["Auto-move to Interact Target"] = "Automatisch zum Interaktionsziel bewegen"
 L["Automatically Navigate to Corpse"] = "Automatisch zur Leiche navigieren"
 L["Announce Remaining Waypoints"] = "Verbleibende Wegpunkte ansagen"
+L["Guess the Start From the Last Height"] = "Startpunkt anhand der letzten Höhe wählen"
 L["Close All Windows When a Route Starts"] = "Beim Start einer Route alle Fenster schließen"
 L["%d remaining"] = "noch %d"
 -- the corpse run's target (deDE has no scanner.lua yet, where enUS keeps the key)

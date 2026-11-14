@@ -4,6 +4,7 @@ L["Navigation"] = true
 L["Auto-move to Interact Target"] = true
 L["Automatically Navigate to Corpse"] = true
 L["Announce Remaining Waypoints"] = true
+L["Guess the Start From the Last Height"] = true
 L["Close All Windows When a Route Starts"] = true
 L["%d remaining"] = true
 

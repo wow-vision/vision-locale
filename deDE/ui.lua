@@ -249,9 +249,10 @@ L["Scope"] = "Bereich"
 L["Global"] = "Global"
 L["Glyphs not yet implemented"] = "Glyphen noch nicht umgesetzt"
 
--- Same English word as Disabled / Available, but a different word in some languages
+-- Same English word as Disabled / Available / Copy, but a different word in some languages
 L["SettingDisabled"] = "Deaktiviert"
 L["AuctionAvailable"] = "Verfügbar"
+L["CopyName"] = "Kopie"
 
 -- Apply Recommended Game Settings (core/ui modules/gameDefaults.lua)
 L["Apply Recommended Game Settings"] = "Empfohlene Spieleinstellungen übernehmen"

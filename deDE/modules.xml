@@ -9,6 +9,7 @@
   <Script file="colors.lua" />
   <Script file="controller.lua" />
   <Script file="errors.lua" />
+  <Script file="gearJudge.lua" />
   <Script file="misc.lua" />
   <Script file="groupHealth.lua" />
   <Script file="minimap.lua" />

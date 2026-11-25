@@ -1,0 +1,25 @@
+local L = LibStub("AceLocale-3.0"):NewLocale("WowVision", "frFR")
+if not L then return end
+
+-- Sharpie's Gear Judge on loot rolls (core/windows/gearJudge.lua)
+L["Gear Judge"] = "Gear Judge"
+L["Roll Gear Judge Verdict"] = "Avis de Gear Judge sur le butin"
+L["All Rolls Gear Judge Verdicts"] = "Avis de Gear Judge sur tous les butins"
+L["your class cannot use it"] = "votre classe ne peut pas l'utiliser"
+L["it is not equipment"] = "ce n'est pas un équipement"
+L["Gear Judge is not ready yet"] = "Gear Judge n'est pas encore prêt"
+L["the item is not loaded yet"] = "l'objet n'est pas encore chargé"
+L["Gear Judge cannot read that item"] = "Gear Judge ne peut pas lire cet objet"
+L["Gear Judge is too old: version 3.2.7 or later is needed."] = "Gear Judge est trop ancien : il faut la version 3.2.7 ou plus récente."
+L["Gear Judge reported an error"] = "Gear Judge a signalé une erreur"
+L["you already wear it"] = "vous le portez déjà"
+L["no change"] = "aucun changement"
+L["upgrade of %s percent"] = "amélioration de %s pour cent"
+L["downgrade of %s percent"] = "perte de %s pour cent"
+L["an upgrade"] = "une amélioration"
+L["a downgrade"] = "une perte"
+L["Gear Judge gave no figure"] = "Gear Judge n'a donné aucun chiffre"
+L["empty slot"] = "emplacement vide"
+L["instead of %s"] = "à la place de %s"
+L["The item is loading."] = "L'objet se charge."
+L["Item %d of %d"] = "Objet %d sur %d"

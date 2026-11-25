@@ -18,6 +18,7 @@
   <Script file="operators.lua" />
   <Script file="powers.lua" />
   <Script file="quests.lua" />
+  <Script file="restedXP.lua" />
   <Script file="scanner.lua" />
   <Script file="speech.lua" />
   <Script file="targeting.lua" />

@@ -1,0 +1,30 @@
+local L = WowVision:translate("enUS")
+
+-- Name sources (camelot/nameSources)
+L["Complete Missing Names"] = true
+L["Say the State"] = true
+L["Names added to Questie's database: state, on, off, recalculate, test."] = true
+L["Name sources: /wv names says the state, /wv names on or off, /wv names recalculate redoes the calculation, /wv names test followed by an English name says what it would become."] = true
+L["%s becomes %s, from %s."] = true
+L["Give an English name after test."] = true
+L["Name Sources"] = true
+L["Name sources are off."] = true
+L["Name sources are on."] = true
+L["Name sources: /wvnames says the state, /wvnames on or off, /wvnames recalculate redoes the calculation, /wvnames test followed by an English name says what it would become."] = true
+L["Names added to Questie's database: %d creature names, %d titles and %d world objects."] = true
+L["No source knows %s."] = true
+L["Not needed: the game is in English."] = true
+L["Questie's database is not there, so there is nothing to complete."] = true
+L["Questie's translations"] = true
+L["Recalculate"] = true
+L["Recalculating the name sources."] = true
+L["Sources used: %s."] = true
+L["The calculation failed: %s"] = true
+L["The calculation has not run yet."] = true
+L["The calculation is done. Names added to Questie's database: %d creature names, %d titles and %d world objects."] = true
+L["The calculation is running, %d percent."] = true
+L["This version of Questie's database does not accept added names."] = true
+L["the game's area names"] = true
+L["the herbs, ores and chests WowVision knows"] = true
+L["the names of inventory items"] = true
+L["the same name already translated elsewhere"] = true
